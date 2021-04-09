@@ -20,6 +20,7 @@ Also cut the track by the 2k2 resistor as shown - then solder on a wire to the i
 This will power the USB from the 5v line.   
 Check the track is actually broken here otherwise you will short the 5v and 3v3.    
 
+![Example](https://github.com/paulhamsh/HeltecUSBHost/blob/main/hostcloseup.jpg)
 
 ![Example](https://github.com/paulhamsh/HeltecUSBHost/blob/main/circuit.jpg)
 
