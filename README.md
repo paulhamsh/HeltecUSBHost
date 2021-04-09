@@ -8,6 +8,13 @@ https://github.com/felis/USB_Host_Shield_2.0
 
 https://www.hackster.io/139994/plug-any-usb-device-on-an-esp8266-e0ca8a   
 
+You will need to install the USB Host library:   
+
+Download from https://github.com/felis/USB_Host_Shield_2.0 as .zip   
+	-> USB_Host_Shield_2.0-master.zip   
+	In the Arduino GUI ->  Sketch - Include Library - Add .zip library   
+
+
 Connections are:   
 GPIO5 : SS   
 GPIO17 : INT   
