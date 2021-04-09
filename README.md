@@ -23,6 +23,8 @@ The white arrows show there the track is cut, where the extra wire is soldered a
 
 ![Example](https://github.com/paulhamsh/HeltecUSBHost/blob/main/hostcloseup.jpg)
 
+![Example](https://github.com/paulhamsh/HeltecUSBHost/blob/main/underside.jpg)   
+
 ![Example](https://github.com/paulhamsh/HeltecUSBHost/blob/main/circuit.jpg)
 
 
